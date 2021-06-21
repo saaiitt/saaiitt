@@ -5,7 +5,16 @@
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/sahid.imanulhaq/)
 ![Visits Badge](https://badges.pufler.dev/visits/BioCoderR/BioCoderR.github.io?style=for-the-badge )
 
-Junior Programmer 
+<p>
+  <em>
+    I am a 2nd Semester undergraduate from <a href="https://www.unindra.ac.id/"> <b>University Indraprasta PGRI</b>, Jakarta</a>.  
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
 </p><p align='left'> You can view my resume <a href='https://saaiitt.github.io/doc/CV_Sahid_Kusuma.pdf ' target=_blank><u>here</u>.</a></p>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saaiitt alt=saaiitt /> </p>
