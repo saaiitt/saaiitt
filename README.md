@@ -15,7 +15,7 @@
   </em>  
 </p>
 
-</p><p align='left'> You can view my resume <a href='https://saaiitt.github.io/doc/CV_Sahid_Kusuma.pdf ' target=_blank><u>here</u>.</a></p>
+</p><p align='left'> You can view my Portfolio <a href='https://saaiitt.github.io' target=_blank><u>here</u>.</a></p>
 
 <br> 
 <a href="https://github.com/TheDudeThatCode">
