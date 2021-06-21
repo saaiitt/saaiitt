@@ -4,5 +4,6 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saaiitt alt=saaiitt /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=saaiitt&show_icons=true&include_all_commits=true)](https://github.com/saaiitt/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiitt&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiitt&layout=compact)](https://github.com/saaiitt/github-readme-stats)
