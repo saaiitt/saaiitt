@@ -1,5 +1,11 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, This is Sait
-[![Gmail Badge](https://img.shields.io/badge/-sahidkusuma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sahidkusuma@gmail.com)](mailto:sahidkusuma@gmail.com) [![Github Badge](https://img.shields.io/badge/-saaiitt-grey?style=flat&logo=github&logoColor=white&link=https://github.com/saaiitt/)](https://www.github.com/saaiitt/) [![Twitter Badge](https://img.shields.io/badge/-sait_tama-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/sait_tama/)](https://www.twitter.com/sait_tama/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=saaiitt@github.io/)](saaiitt@github.io/) <p align='left'>Junior Programmer 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/im_pranavgundla) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranavswaroopgundla/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pranav_swaroop_g/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pranav.goud.526/)
+![Visits Badge](https://badges.pufler.dev/visits/BioCoderR/BioCoderR.github.io?style=for-the-badge )
+
+Junior Programmer 
 </p><p align='left'> You can view my resume <a href='https://saaiitt.github.io/doc/CV_Sahid_Kusuma.pdf ' target=_blank><u>here</u>.</a></p>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saaiitt alt=saaiitt /> </p>
